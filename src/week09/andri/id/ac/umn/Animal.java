@@ -6,7 +6,6 @@ public interface Animal {
 }
 
 public class Mammal implements Animal{
-	
 
 	public Mammal() {}
 	
